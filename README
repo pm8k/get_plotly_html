@@ -1,0 +1,1 @@
+This notebook outlines the process you can use to leverage plotly's ipython's offline functionality in order to generate html and javascript with the plotly python API. With this, we can now integrate plotly plots into webpages without having to touch plotly's servers
